@@ -46,7 +46,7 @@ function Hero() {
                 <img src={linkedinIcon} alt="LinkedIn Icon"></img>
                 </a>
             </span>
-            <p className={styles.description}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione, iure.</p>
+            <p className={styles.description}>Transforming innovative ideas into impactful digital experiences with precision and creativity.</p>
             <a href={CV}>
                 <button className='hover' download>Resume</button>
             </a>
